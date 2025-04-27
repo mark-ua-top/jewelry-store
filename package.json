@@ -17,7 +17,7 @@
   "bugs": {
     "url": "https://github.com/mark-ua-top/jewelry-store/issues"
   },
-  "homepage": "https://github.com/mark-ua-top/jewelry-store#readme",
+  "homepage": "https://mark-ua-top.github.io/jewelry-store/",
   "dependencies": {
     "gh-pages": "^6.3.0",
     "parcel": "^2.14.4",
