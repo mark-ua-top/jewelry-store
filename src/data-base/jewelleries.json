@@ -1,0 +1,29 @@
+{
+  "jewelleries": [
+    {
+      "title": "Срібний браслет в плетінні ромб",
+      "price": "6 227",
+      "photo": "https://img.ukrzoloto.ua/images/pr/520_520/99007aec164c67fa595abab7e2ec3fcf/1672414304/UZ32432_000122242.webp"
+    },
+    {
+      "title": "Сережка в одне вухо зі срібла з фіанітом",
+      "price": "3 586",
+      "photo": "https://img.ukrzoloto.ua/images/pr/520_520/de58dd4406d94c774dca3fa2f27c55be/1596463583/JERY107290__W-E_12_1.webp"
+    },
+    {
+      "title": "Печатка зі срібла з фіанітом і емаллю",  
+      "price": "5 493",
+      "photo": "https://img.ukrzoloto.ua/images/pr/520_520/cf97432d0af5f2fc694b457eaf471c75/1607668401/UZ10247928_000146080.webp"
+    },
+    {
+      "title": "Срібний ланцюг якірного плетіння",
+      "price": "31 365",
+      "photo": "https://img.ukrzoloto.ua/images/pr/520_520/14b1c59784679a7db49250dcca63b871/1666627489/UZ10201001_000117945.webp"
+    },
+    {
+      "title": "Підвіска з срібла",
+      "price": "7 369",
+      "photo": "https://img.ukrzoloto.ua/images/pr/520_520/e739b82b53b75e4f1436dd279ff55c7d/1577433038/PTGXX000007-P-12.webp"
+    }
+  ]
+}
