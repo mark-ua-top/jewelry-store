@@ -1,0 +1,1 @@
+{"mappings":"ACAA","sources":["jewelry-store.a2bb3c9b.css","src/css/style.css"],"sourcesContent":["body {\n  background-color: #727272;\n}\n/*# sourceMappingURL=jewelry-store.a2bb3c9b.css.map */\n","body {\n    background-color: rgb(114, 114, 114);\n}"],"names":[],"version":3,"file":"jewelry-store.a2bb3c9b.css.map"}
